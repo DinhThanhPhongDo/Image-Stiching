@@ -76,6 +76,7 @@ def evaluate_registration(ref_filename,reg_filename,mat_filename,metric='mi',viz
 
 
 if __name__ == '__main__':
+    print(cv2.__version__)
 
     # # registration and evaluation of non-padded images
     # print('----------------------------not pad case---------------------------')
