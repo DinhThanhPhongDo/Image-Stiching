@@ -3,8 +3,9 @@
 * RANSAC is used for feature matching in order to find the transformation matrix.
 * Cross-correlation is used for performance metric.
 
-## Requirements & Dependences:
+## Requirements & Dependencies:
 This project is implemented with the following libraries:
+* Python 3.9.12
 * OpenCV 4.7.0
 * Rasterio 1.3.6
 
